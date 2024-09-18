@@ -1,7 +1,12 @@
 
 
 def q1():
-  #Write Assignment code here
+  print ( * * * * * *
+* * * * * *
+ * * * * * *
+* * * * * *
+ * * * * * *
+* * * * * *)
   #Remember your code must be indented once
 
 def q2():
