@@ -9,8 +9,8 @@ def q1():
   #Remember your code must be indented once
 
 def q2():
-  word1, word2 = "Hello ", "World"
-  print(word1 + word2)
+  print("Hello ", end='')
+  print("World", end='')
   #Write Assignment code here
 
 def q3():
