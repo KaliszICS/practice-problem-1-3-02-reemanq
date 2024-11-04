@@ -2,9 +2,7 @@
 
 def q1():
   print (" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n")
-  
   print ("* * * * *\n*       *\n*       *\n*       *\n* * * * *\n")
-  
   print ("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *\n")
   #Remember your code must be indented once
 
