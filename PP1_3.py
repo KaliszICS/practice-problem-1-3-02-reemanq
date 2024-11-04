@@ -1,35 +1,20 @@
 
 
 def q1():
-  print ( * * * * * *
-* * * * * *
- * * * * * *
-* * * * * *
- * * * * * *
-* * * * * *)
+  print (" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *")
   
-  print (* * * * *
-*       *
-*       *
-*       *
-* * * * *)
+  print ("* * * * *\n*       *\n*       *\n*       *\n* * * * *")
   
-  print (* * * * * *
- *       *
-  *     *
-   *   *
-    * *
-     *)
+  print ("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *")
   #Remember your code must be indented once
 
 def q2():
-  print(Hello+World)
+  word1, word2 = "Hello ", "World"
+  print(word1 + word2)
   #Write Assignment code here
 
 def q3():
-  word = "Man"
-  word = "Board"
-  word = "Man Overboard"
+  print("Man\nBoard\nMan Overboard")
   #Write Assignment code here
   
 
