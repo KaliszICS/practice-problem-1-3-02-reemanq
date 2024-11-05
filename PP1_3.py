@@ -1,7 +1,7 @@
 
 
 def q1():
-  print (" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *")
+  print(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *")
   print("* * * * *\n*       *\n*       *\n*       *\n* * * * *")
   print("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *\n")
   #Remember your code must be indented once
@@ -12,7 +12,7 @@ def q2():
   #Write Assignment code here
 
 def q3():
-  print("Man\nBoard\nMan Overboard")
+  print('"Man"\n"Board"\n"Man Overboard"\n')
   #Write Assignment code here
   
 
